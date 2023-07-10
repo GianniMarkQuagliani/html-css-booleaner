@@ -1,6 +1,9 @@
+/* reset  */
 *{
   margin: 0;
 }
+
+/* logo  */
 #logo{
   height: 150px;
   background-image: url(../img/pattern.png);
@@ -14,14 +17,13 @@
   margin-left: 20px;
 }
 
-
-span.author a{
-  display: inline;
-  font-family:'Times New Roman', Times, serif;
-  font-size: 15px;
-  color: #0086df;;
+/* autore e data  */
+#autore-data h4{
+  color: grey;
 }
+
+
 a {
   text-decoration: none;
-  color: blue;
+  color: #0086df;
 }
