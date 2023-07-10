@@ -11,7 +11,7 @@ html{
 
 .box-con-img{   
   width: 100%;
-  background-image: url(../img/pattern.png);
+  background-image: url(../img/logo.svg);
   background-size: cover;
   background-position: center;
 }
