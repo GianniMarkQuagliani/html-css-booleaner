@@ -22,8 +22,29 @@
   color: grey;
 }
 
+.sotto-tim-1, .sotto-tim-2{
+  font-size: 10px;
+}
+
+.sotto-tim-2{
+  margin-bottom: 20px;
+}
 
 a {
   text-decoration: none;
   color: #0086df;
+}
+
+#sotto-img{
+
+}
+
+/* paragrafo principale  */
+#paragrafo-principale{
+  margin-bottom: 40px;
+}
+
+ul{
+  margin-bottom: 40px;
+  padding-left: 20px;
 }
