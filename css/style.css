@@ -1,27 +1,17 @@
-html{
-  font-size: 14px;
-  font-family: 'Roboto', sans-serif;
+*{
+  margin: 0;
 }
-
 #logo{
-  height: 50px;
-  width: 50px;
+  height: 150px;
+  background-image: url(../img/pattern.png);
+  background-color: rgb(0, 153, 255);
 }
 
-.box-con-img{   
-  width: 100%;
-  background-image: url(../img/logo.svg);
-  background-size: cover;
-  background-position: center;
-}
 
-header{
-  height: 100px;
-  width: 100%;
-  background-color: #c7f6fc;
-  border-bottom: 1px solid #b2f3fc;
-  background-repeat: repeat-x;
-  background-position: 0 0;
+#logo2{
+  width: 300px;
+  margin-top: 65px;
+  margin-left: 20px;
 }
 
 
