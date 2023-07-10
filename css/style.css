@@ -8,6 +8,10 @@ html{
   font-family: 'Roboto', sans-serif;
 }
 
+#logo{
+  height: 50px;
+  width: 50px;
+}
 
 .box-con-img{   
   width: 100%;
@@ -15,6 +19,24 @@ html{
   background-size: cover;
   background-position: center;
 }
-.container{
-  width: 1000px;
+
+header{
+  height: 100px;
+  width: 100%;
+  background-color: #c7f6fc;
+  border-bottom: 1px solid #b2f3fc;
+  background-repeat: repeat-x;
+  background-position: 0 0;
+}
+
+
+span.author a{
+  display: inline;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: #0086df;;
+}
+a {
+  text-decoration: none;
+  color: blue;
 }
