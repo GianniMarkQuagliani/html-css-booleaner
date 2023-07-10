@@ -54,3 +54,28 @@ ul{
 }
 
 /* tabelle  */
+.tabelle{
+  text-align: left;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.tb-speciale{
+  background-color: rgba(178,230,242,255);
+}
+
+#ht{
+  background-color: rgb(26, 170, 230);
+  height: 1px;
+}
+
+#ht td{
+  color: white;
+  font-weight: bold;
+}
+
+.t-special{
+  max-width: 300px;
+}
+
