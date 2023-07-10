@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+main, footer{
+  margin-left: 10px;
+}
+
 /* logo  */
 #logo{
   height: 150px;
