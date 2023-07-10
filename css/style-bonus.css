@@ -4,8 +4,12 @@
 }
 
 main, footer{
-  margin-left: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  
 }
+
 
 /* logo  */
 #logo{
@@ -16,9 +20,10 @@ main, footer{
 
 
 #logo2{
+  margin-left: 100px;
+  margin-right: 100px;
   width: 300px;
   margin-top: 65px;
-  margin-left: 20px;
 }
 
 /* autore e data  */
